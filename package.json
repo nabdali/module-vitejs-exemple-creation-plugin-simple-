@@ -1,0 +1,20 @@
+{
+  "name": "vitejs-courses-demo-7-creation-plugin-simple",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "axios": "^1.7.9",
+    "esprima": "^4.0.1",
+    "openai": "^4.76.2",
+    "vite": "^6.0.1"
+  },
+  "dependencies": {
+    "marked": "^15.0.3"
+  }
+}
